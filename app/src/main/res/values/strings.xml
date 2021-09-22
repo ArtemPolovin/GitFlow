@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">GitFlow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="continue_button_text">Continue</string>
+    <string name="welcome_screen_one_text_title">Nourishment matched to your body</string>
+    <string name="welcome_screen_one_subtext">You are unique and your body has specific demands. Through leading edge diagnostics, we find out what those needs are and provide options that align with your nutritional needs.</string>
+    <string name="welcome_screen_two_text_title">No more guessing!</string>
+    <string name="welcome_screen_two_text_subtitle">Easily identify what\'s good for you.  Every option is scored to help you quickly understand the nutritional value.Plus, it\'s made fresh, locally, and tastes great.</string>
+    <string name="welcome_screen_three_text_title">Optimized = Best</string>
+    <string name="welcome_screen_three_text_subtitle">Are you ready to live optimally?  Optimization is making the best out of our situation and resources. You deserve the best and Youtopia does all the optimization for you.</string>
 </resources>
